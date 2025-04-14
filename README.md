@@ -81,4 +81,4 @@ Esta aula é parte da iniciativa **GitHub4Women**, com apoio das organizações:
 
 ## Contato
 
-e-mail: karen_zordan@hotmail.com
+E-mail: karen_zordan@hotmail.com
